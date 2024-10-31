@@ -22,10 +22,7 @@ For additional context I am calculating each accounts daily frequency and roundi
 
 A normal account usually doesnot have more than 5 withdrawal transactions in a day so we set it as our threshold.
 
-
-
-
-
+![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Anomalies%20sequence.PNG)
 
 
 
