@@ -12,5 +12,8 @@ Use sequence matching techniques and frequency analysis to identify duplicated o
 ![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Load%20and%20Prepare%20Data.PNG)
 
 After loading the dataset, I performed a thorough check for any missing values and ensured that each column had the correct data type, making necessary adjustments to maintain data integrity and readiness for analysis
+### Feature Engineering
+For features i decided to split my transaction datetime column to day of the week,month and hour to capture daily,monthly and hourly patterns.
+
 
 
