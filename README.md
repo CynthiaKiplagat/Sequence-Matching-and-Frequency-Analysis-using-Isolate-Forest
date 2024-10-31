@@ -17,7 +17,8 @@ For features i decided to split my transaction datetime column to day of the wee
 
 ![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Feature%20Engineering.PNG)
 For additional context I am calculating each accounts daily frequency to be able to be able to under their behaviour.
-![Alt Text](
+
+![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Frequency.PNG)
 
 
 
