@@ -15,5 +15,8 @@ After loading the dataset, I performed a thorough check for any missing values a
 ### Feature Engineering
 For features i decided to split my transaction datetime column to day of the week,month and hour to capture daily,monthly and hourly patterns.
 
+![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Feature%20Engineering.PNG)
+
+
 
 
