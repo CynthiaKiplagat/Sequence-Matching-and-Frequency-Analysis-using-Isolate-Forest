@@ -20,6 +20,9 @@ For features i decided to split my transaction datetime column to day of the wee
 For additional context I am calculating each accounts daily frequency and rounding the amiunt to a multiple of 10 to create a sequence to be able to be able to under their behaviour.
 ![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Frequency.PNG)
 
+A normal account usually doesnot have more than 5 withdrawal transactions in a day so we set it as our threshold.
+
+
 
 
 
