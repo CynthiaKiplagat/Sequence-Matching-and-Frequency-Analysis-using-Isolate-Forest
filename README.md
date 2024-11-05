@@ -36,6 +36,10 @@ Fit and training the model to detect anomalies based on frequencies and patterns
 Visualise the data to be able to see the anomalies
 ![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Anomaly%20Detection%20Visual.PNG)
 
+From our findings we were able to detect 6 anomalies out of an observations of 582.
+To ensure the effectiveness of the Model we need to run a prediction based on the isolation model then evaluate using the confusion matrix to determine our models performance.
+
+
 
 
 
