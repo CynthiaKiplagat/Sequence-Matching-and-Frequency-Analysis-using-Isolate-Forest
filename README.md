@@ -29,6 +29,8 @@ A normal account usually doesnot have more than 5 withdrawal transactions in a d
 ![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Feature%20Selection.PNG)
 ### Model Initiation and visualisation
 
+![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Model%20Initialisation.PNG)
+
 
 
 
