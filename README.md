@@ -34,6 +34,8 @@ Fit and training the model to detect anomalies based on frequencies and patterns
 ![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Model%20Initialisation.PNG)
 
 Visualise the data to be able to see the anomalies
+![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Anomaly%20Detection%20Visual.PNG)
+
 
 
 
