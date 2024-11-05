@@ -38,6 +38,15 @@ Visualise the data to be able to see the anomalies
 
 From our findings we were able to detect 6 anomalies out of an observations of 582.
 To ensure the effectiveness of the Model we need to run a prediction based on the isolation model then evaluate using the confusion matrix to determine our models performance.
+![Alt Text](https://github.com/CynthiaKiplagat/Sequence-Matching-and-Frequency-Analysis-using-Isolate-Forest/blob/main/Confusion%20Matrix.PNG)
+The matrix shows that we have 5 anomaly cases in which 1 was identify  as an anomaly yet it was predicted as  normal in the first row.
+In the second row 1  was predicted  as normal and yet it was a normal transaction and 575 cases was correctly predicted as normal.
+
+## Conclusion
+The model shows good performance however there is need for improvements in anomaly detection either through tuning and slight recall.
+
+
+
 
 
 
